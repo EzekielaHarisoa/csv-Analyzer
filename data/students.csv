@@ -1,0 +1,101 @@
+id,nom,age,sexe,ville,filiere,note,absences,heures_etude,statut
+1001,Rakotomalala Lalaina,24,F,Mahajanga,,12.0,0,24,admis
+1002,Razanamahefa Lova,21,M,Antananarivo,Gestion,9.5,8,10,ajourné
+1003,Rajaonarison Andry,23,M,Fianarantsoa,Économie,14.0,6,15,admis
+1004,Rakotomalala Safidy,21,M,Toliara,Gestion,9.0,2,12,ajourné
+1005,Ratsimbazafy Tahina,21,M,Toliara,Génie civil,10.0,5,23,admis
+1006,Andrianasolo Jean,21,M,Antsirabe,Lettres modernes,12.5,0,19,admis
+1007,Ratsimbazafy Ny Aina,21,M,Antsirabe,Agronomie,3.0,4,3,ajourné
+1008,Rakotomalala Aina,23,F,Antananarivo,Lettres modernes,10.0,1,9,admis
+1009,Ratsimbazafy Nirina,19,F,Toliara,Agronomie,11.5,0,11,admis
+1010,Andriamihaja Kanto,21,M,Mahajanga,Agronomie,6.5,5,13,ajourné
+1011,Rajaonarison Tsiory,20,F,Antananarivo,Agronomie,11.0,0,,admis
+1012,Rakotomalala Rado,22,M,Fianarantsoa,Lettres modernes,10.5,,17,admis
+1013,Ravelomanana Toky,24,M,Antananarivo,Génie civil,9.0,6,1,ajourné
+1014,Rasolofo Rivo,20,M,Fianarantsoa,Gestion,12.5,6,12,admis
+1015,Ratsimbazafy Sarobidy,18,F,,Gestion,9.5,3,11,ajourné
+1016,Razanamahefa Kanto,21,M,Antananarivo,Économie,8.0,2,15,ajourné
+1017,Randriamampionona Safidy,24,M,Fianarantsoa,Agronomie,9.0,0,1,ajourné
+1018,Rasolofo Narindra,19,F,Antananarivo,,9.0,1,9,ajourné
+1019,Razanamahefa Mialy,19,F,Antananarivo,Gestion,10.0,5,12,admis
+1020,Rakotomalala Fanja,20,,Mahajanga,Agronomie,8.5,3,7,ajourné
+1021,Andrianasolo Njaka,22,M,Antananarivo,Médecine,6.0,5,9,ajourné
+1022,Rabemananjara Mialy,18,F,Mahajanga,Droit,7.0,8,9,ajourné
+1023,Rajaonarison Sarobidy,22,F,,Informatique,11.0,7,19,admis
+1024,Rasolofo Miora,23,F,Toamasina,Lettres modernes,8.0,0,7,ajourné
+1025,Rasoanaivo Fenitra,20,M,Antananarivo,Agronomie,12.0,4,25,admis
+1026,Randrianarivo Rado,21,M,Fianarantsoa,Génie civil,5.5,6,18,ajourné
+1027,Randrianarivo Fanja,23,F,Mahajanga,Lettres modernes,8.0,2,3,ajourné
+1028,Rajaonarison Lalaina,19,F,Fianarantsoa,Médecine,10.5,8,11,admis
+1029,Andriamihaja Faniry,21,F,Mahajanga,Droit,11.0,5,18,admis
+1030,Razafindrakoto Volatiana,22,F,Antananarivo,Gestion,10.0,2,13,admis
+1031,Ratsimbazafy Tsiory,20,F,Antananarivo,Gestion,14.0,5,26,admis
+1032,Rakotoarisoa Voahangy,,F,Antananarivo,Économie,11.5,3,11,admis
+1033,Rabemananjara Hery,20,F,Antananarivo,Agronomie,8.0,6,6,ajourné
+1034,Andriamihaja Ny Aina,24,M,Toamasina,Lettres modernes,9.0,6,18,ajourné
+1035,Randriamampionona Fenitra,24,M,Toliara,Gestion,7.5,7,12,ajourné
+1036,Rakotomalala Mamy,18,M,Antsiranana,Droit,8.5,3,13,ajourné
+1037,Razafindrakoto Mialy,21,F,Antsiranana,Génie civil,10.0,5,22,admis
+1038,Rabemananjara Volatiana,21,F,Toliara,Droit,11.0,0,19,admis
+1039,Andriamihaja Jean,22,M,Antananarivo,Informatique,8.5,7,13,ajourné
+1040,Rasoanaivo Nirina,21,F,Mahajanga,Génie civil,13.5,2,19,admis
+1041,Rasolofo Andry,23,M,Mahajanga,Médecine,4.5,5,1,ajourné
+1042,Razafindrakoto Safidy,24,,Antananarivo,Génie civil,7.5,3,3,ajourné
+1043,Rasolofo Rado,20,M,Antsirabe,Génie civil,11.5,8,17,admis
+1044,Rajaonarison Mickael,21,M,Toamasina,Informatique,12.5,3,,admis
+1045,Randriamampionona Hanitra,20,M,Toliara,Gestion,10.5,4,15,admis
+1046,Rakotoarisoa Njaka,24,M,Toamasina,Droit,11.5,5,,admis
+1047,Rabemananjara Aina,20,F,Antananarivo,Informatique,13.0,0,13,admis
+1048,Andriamihaja Hanitra,20,M,Antsiranana,Médecine,12.0,8,26,admis
+1049,Razafindrakoto Ny Aina,22,M,Antsirabe,,9.0,3,14,ajourné
+1050,Randrianarivo Hery,21,F,Antsirabe,Informatique,10.0,5,17,admis
+1051,Andrianasolo Tahina,21,M,Antananarivo,Économie,5.5,5,2,ajourné
+1052,Randrianarivo Kanto,20,M,Antsirabe,Gestion,8.0,2,8,ajourné
+1053,Rajaonarison Kanto,20,M,Mahajanga,Gestion,14.0,7,29,admis
+1054,Rasolofo Lova,19,M,Toamasina,Économie,12.0,,4,admis
+1055,Ramanantsoa Tahina,22,M,Antananarivo,Économie,12.0,1,14,admis
+1056,Ravelomanana Miora,22,F,Mahajanga,Droit,8.5,2,7,ajourné
+1057,Andriamihaja Lalaina,23,F,Toamasina,Droit,7.5,3,9,ajourné
+1058,Andriamihaja Tsiory,21,F,Mahajanga,Lettres modernes,9.5,9,17,ajourné
+1059,Randrianarivo Toky,21,M,Antsiranana,Médecine,9.5,6,6,ajourné
+1060,Andriamihaja Fanja,21,F,Antananarivo,Économie,10.0,0,16,admis
+1061,Ratsimbazafy Mickael,,M,Antananarivo,Médecine,11.5,1,8,admis
+1062,Ravelomanana Volatiana,21,F,Mahajanga,Économie,9.5,8,12,ajourné
+1063,Rasoanaivo Hasina,20,F,Antananarivo,Agronomie,8.0,8,16,ajourné
+1064,Andrianasolo Kanto,21,M,,Génie civil,8.0,,12,ajourné
+1065,Ravelomanana Hery,21,F,Toamasina,Économie,6.0,7,11,ajourné
+1066,Rasoanaivo Rado,18,M,Antsirabe,Génie civil,6.5,6,,ajourné
+1067,Rakotomalala Fenitra,,M,Toamasina,Médecine,11.0,1,4,admis
+1068,Andrianasolo Rado,19,M,Fianarantsoa,Économie,9.5,0,7,ajourné
+1069,Randrianarivo Tahina,25,M,Antsirabe,Droit,13.5,0,15,admis
+1070,Rakotoarisoa Mamy,20,M,Antananarivo,Droit,9.5,0,12,ajourné
+1071,Rajaonarison Lova,22,M,,Économie,3.5,7,8,ajourné
+1072,Andrianasolo Miora,21,F,Antsiranana,Droit,10.0,8,12,admis
+1073,Rasolofo Volatiana,23,F,Antananarivo,Génie civil,10.5,3,,admis
+1074,Ravelomanana Tahina,19,M,Mahajanga,Droit,9.5,3,21,ajourné
+1075,Rakotomalala Jean,24,M,Toamasina,Économie,9.5,3,16,ajourné
+1076,Randriamampionona Tahina,21,M,Fianarantsoa,Informatique,9.0,7,8,ajourné
+1077,Razanamahefa Toky,18,M,Fianarantsoa,Gestion,8.0,5,8,ajourné
+1078,Ravelomanana Zoé,19,F,Antananarivo,Lettres modernes,7.0,3,11,ajourné
+1079,Ramanantsoa Safidy,25,M,Mahajanga,Agronomie,7.5,2,21,ajourné
+1080,Ramanantsoa Aina,19,F,Antananarivo,Droit,9.5,6,15,ajourné
+1081,Ratsimbazafy Mamy,24,M,Antsiranana,Informatique,11.5,,11,admis
+1082,Rabemananjara Toky,18,M,Fianarantsoa,Génie civil,5.0,6,9,ajourné
+1083,Razanamahefa Hasina,19,F,Antananarivo,Économie,3.0,5,6,ajourné
+1084,Andriamihaja Lova,25,M,Antananarivo,Agronomie,11.5,1,6,admis
+1085,Andriamihaja Nirina,20,F,Antananarivo,Informatique,10.5,7,26,admis
+1086,Ravelomanana Njaka,21,M,Antananarivo,Économie,9.5,,12,ajourné
+1087,Rakotomalala Miora,23,F,Antananarivo,Informatique,9.5,3,14,ajourné
+1088,Rasoanaivo Safidy,20,,Fianarantsoa,Économie,7.0,3,12,ajourné
+1089,Ramanantsoa Narindra,,F,Antsirabe,Lettres modernes,11.0,5,18,admis
+1090,Ravelomanana Faniry,21,F,Fianarantsoa,Informatique,12.0,,18,admis
+1091,Ravelomanana Mialy,22,F,Antananarivo,Économie,8.0,7,13,ajourné
+1092,Randrianarivo Mialy,21,F,Antsirabe,Gestion,9.5,1,13,ajourné
+1093,Randrianarivo Volatiana,22,F,Toamasina,Informatique,9.5,5,14,ajourné
+1094,Razafindrakoto Jean,19,M,Antananarivo,Informatique,12.5,5,10,admis
+1095,Rasolofo Mialy,18,F,Antsiranana,Agronomie,16.5,1,18,admis
+1096,Rasolofo Zoé,25,F,Antananarivo,Gestion,8.0,5,8,ajourné
+1097,Rasolofo Faniry,18,F,Antsiranana,Gestion,14.0,1,21,admis
+1098,Ramanantsoa Lalaina,21,F,Fianarantsoa,Médecine,11.5,7,21,admis
+1099,Rasolofo Sarobidy,21,F,Antananarivo,Droit,6.5,3,7,ajourné
+1100,Randrianarivo Sarobidy,,F,Antananarivo,Droit,8.5,8,18,ajourné
