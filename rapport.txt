@@ -1,0 +1,33 @@
+===== RAPPORT CSV ANALYZER =====
+
+===== ANALYSE DES NOTES =====
+moyenne : 9.56
+somme : 956.0
+minimum : 3.0
+maximum : 16.5
+etendue : 13.5
+mediane : 9.5
+
+===== ANALYSE DES VILLES =====
+Mahajanga : 14
+Antananarivo : 35
+Fianarantsoa : 13
+Toliara : 6
+Antsirabe : 10
+Toamasina : 10
+Antsiranana : 8
+
+===== VALEURS MANQUANTES =====
+id : 0
+nom : 0
+age : 5
+sexe : 3
+ville : 4
+filiere : 3
+note : 0
+absences : 6
+heures_etude : 5
+statut : 0
+
+===== DOUBLONS =====
+Nombre de doublons : 0

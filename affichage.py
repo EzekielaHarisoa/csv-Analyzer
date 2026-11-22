@@ -1,5 +1,11 @@
-def liter(x):
-    liste = []  
-    for i in listes: 
-      note = float(i.get("note"))
-      listNotes.append(note)
+def afficherMenu():
+    print("\n================================")
+    print("          CSV ANALYZER")
+    print("================================")
+    print("1. Statistiques des notes")
+    print("2. Analyse des villes")
+    print("3. Valeurs manquantes")
+    print("4. Détection des doublons")
+    print("5. Filtrer les étudiants")
+    print("6. Quitter") 
+    print("7. Exporter rapport")

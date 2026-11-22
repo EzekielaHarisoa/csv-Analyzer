@@ -62,3 +62,37 @@ def compterCategories(x):
             effectif[valeur] = 1    
     return effectif    
 
+def porcentageCategorie(x):
+    effectif = {}
+    for valeur in x:
+            valeur = valeur.strip() 
+    
+            if valeur == "":
+                continue
+            if valeur in effectif:
+                effectif[valeur] += 1
+            else:
+                effectif[valeur] = 1    
+    return effectif    
+
+def detecterDoublons(x):
+    lignesVues = set()
+    doublons = []
+
+    for ligne in x:
+        ligneTuple = tuple(ligne.items())
+
+        if ligneTuple in lignesVues:
+            doublons.append(ligne)
+        else:
+            lignesVues.add(ligneTuple)
+
+    return doublons
+
+def filtrerEtudiant(etudiants, colonne, valeur):
+    resultat = []
+
+    for etudiant in etudiants:
+        if etudiant.get(colonne,"").strip().lower() == valeur.strip().lower():
+            resultat.append(etudiant)
+    return resultat        
