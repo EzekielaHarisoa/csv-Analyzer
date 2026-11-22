@@ -1,38 +1,31 @@
-from statistique import calculMedian
 import csv
-path = 'data/students.csv'
+from analyserNotes import analyserNotes
+from statistique import compterCategories
 
-with open(path, mode="r",encoding="utf-8" ) as file:
-   content = csv.DictReader(file)
-   etudiant = list(content)
-   
-   i = 0
-   #voir tout les contenue
-   for f in etudiant:
-      print("Etudiant:",f.get("nom"))
-      i+=1
-   print(f'nomre total detudiant {i}')
-   
-   print("\n")   
+path = "data/students.csv"
 
-   #nom avec note
-   for f2 in etudiant:
-      print(f2.get("nom"),":" ,f2.get("note"))
+notes = []
+villes = []
 
-   print("\n")   
+with open(path, mode="r", encoding="utf-8") as file:
+    contenu = csv.DictReader(file)
 
-   #type
-   for f3 in etudiant:
-      note = f3.get("note")
-      print( note, " : ", type(note)) 
+    for etudiant in contenu:
+        notes.append(etudiant.get("note"))
+        villes.append(etudiant.get("ville"))    
 
+resultats = analyserNotes(notes)
 
-   listNotes = []
-   for f5 in etudiant:
-      note = float(f5.get("note"))
-      listNotes.append(note)
-   print(listNotes)   
-   print( "mediane = ", calculMedian(listNotes))
-   
+if resultats is None:
+    print("Aucune note valide.")
+else:
+    print("\n===== ANALYSE DES NOTES =====")
+
+    for nom, valeur in resultats.items():
+        print(f"{nom} : {valeur}")
 
 
+resultats = compterCategories(villes)
+
+for ville, nombre in resultats.items():
+    print(f"{ville} : {nombre}")        
